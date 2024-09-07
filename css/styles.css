@@ -14,11 +14,11 @@ body {
   color: #4d5ae5;
 }
 
-.logo .logo-2 {
+.logo .logo-second {
   color: #2e2f42;
 }
 
-.logo .logo-3 {
+.logo .logo-third {
   color: #f4f4fd;
 }
 
@@ -39,15 +39,15 @@ body {
   font-style: normal;
 }
 
-.page-address .link-2 {
+.page-address .link-second {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 
-.page-address .link-2:hover,
-.page-address .link-2:focus {
+.page-address .link-second:hover,
+.page-address .link-second:focus {
   color: #404bbf;
 }
 
@@ -79,7 +79,7 @@ body {
   background-color: #404bbf;
 }
 
-.title-2 {
+.title-second {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -98,7 +98,7 @@ body {
   background-color: #f4f4fd;
 }
 
-.title-3 {
+.title-third {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -115,7 +115,7 @@ body {
   background-color: #2e2f42;
 }
 
-.text-2 {
+.text-second {
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
